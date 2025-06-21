@@ -1,3 +1,0 @@
-Projeto da dísciplina de redes de computadores do curso Bacharelado em Ciência da Computação do Instituto Federal do Paraná (IFPR) desenvolvido por Pablo Duarte de Quadros e Felipe Bertoluci Wendt.
-
-Proposito central deste projeto: Desenvolvimento de uma aplicação na linguagem de programação C onde teremos que receber requisições HTTP (Método GET) enviadas por um cliente e devolver um HTML com a requisição no corpo e 200 Ok, mas caso não seja encontrada terá que devolver um HTML com 404 Not Found.
