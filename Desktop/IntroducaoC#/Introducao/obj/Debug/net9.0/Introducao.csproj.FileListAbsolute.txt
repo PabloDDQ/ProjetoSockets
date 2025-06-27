@@ -1,0 +1,15 @@
+C:\Users\pablo\Desktop\IntroducaoC#\Introducao\bin\Debug\net9.0\Introducao.exe
+C:\Users\pablo\Desktop\IntroducaoC#\Introducao\bin\Debug\net9.0\Introducao.deps.json
+C:\Users\pablo\Desktop\IntroducaoC#\Introducao\bin\Debug\net9.0\Introducao.runtimeconfig.json
+C:\Users\pablo\Desktop\IntroducaoC#\Introducao\bin\Debug\net9.0\Introducao.dll
+C:\Users\pablo\Desktop\IntroducaoC#\Introducao\bin\Debug\net9.0\Introducao.pdb
+C:\Users\pablo\Desktop\IntroducaoC#\Introducao\obj\Debug\net9.0\Introducao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Desktop\IntroducaoC#\Introducao\obj\Debug\net9.0\Introducao.AssemblyInfoInputs.cache
+C:\Users\pablo\Desktop\IntroducaoC#\Introducao\obj\Debug\net9.0\Introducao.AssemblyInfo.cs
+C:\Users\pablo\Desktop\IntroducaoC#\Introducao\obj\Debug\net9.0\Introducao.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\IntroducaoC#\Introducao\obj\Debug\net9.0\Introducao.sourcelink.json
+C:\Users\pablo\Desktop\IntroducaoC#\Introducao\obj\Debug\net9.0\Introducao.dll
+C:\Users\pablo\Desktop\IntroducaoC#\Introducao\obj\Debug\net9.0\refint\Introducao.dll
+C:\Users\pablo\Desktop\IntroducaoC#\Introducao\obj\Debug\net9.0\Introducao.pdb
+C:\Users\pablo\Desktop\IntroducaoC#\Introducao\obj\Debug\net9.0\Introducao.genruntimeconfig.cache
+C:\Users\pablo\Desktop\IntroducaoC#\Introducao\obj\Debug\net9.0\ref\Introducao.dll

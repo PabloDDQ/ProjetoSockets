@@ -1,29 +1,18 @@
-#Makefile está sendo utilizado para automatizar a compilação 
-
-
-# Nome do compilador
 CC = gcc
+CFLAGS = -Wall
+LDFLAGS = -lws2_32
+BUILD_DIR = build
+SRC_DIR = src
 
-# Nome do executável final
-TARGET = build/servidor.exe
+all: servidor cliente
 
-# Arquivo-fonte
-SRC = src/main.c
+servidor: $(SRC_DIR)/servidor.c
+	$(CC) $(CFLAGS) -o $(BUILD_DIR)/servidor.exe $< $(LDFLAGS)
 
-# Diretórios de inclusão (se houver)
-INCLUDES =
+cliente: $(SRC_DIR)/cliente.c
+	$(CC) $(CFLAGS) -o $(BUILD_DIR)/cliente.exe $< $(LDFLAGS)
 
-# Bibliotecas a serem linkadas
-LIBS = -lws2_32
-
-# Flags de compilação (opcional)
-CFLAGS =
-
-# Regra padrão
-all:
-	$(CC) $(SRC) -o $(TARGET) $(CFLAGS) $(INCLUDES) $(LIBS)
-
-# Limpa o executável (opcional)
 clean:
-	del /Q build\*.exe
+	del /Q $(BUILD_DIR)\*.exe
 
+.PHONY: all clean
